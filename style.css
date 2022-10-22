@@ -1,0 +1,287 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+
+/*---header--*/
+
+.headerLeft{
+ background-color: #D0D3D4;
+}
+.headerRight{
+    background-color:#D0D3D4;
+}
+.logo{
+    color:grey;
+    font-size: 20px;
+    padding-top: 20px;
+    margin-left: 40px;
+}
+
+.nav{
+    margin-left: 40px;
+}
+
+.nav ul{
+    margin-left: 250px;
+}
+
+.active{
+    background-color: #3498DB;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+
+/*------banner-----*/
+
+.bannerLeft{
+    background-color:#D0D3D4;
+}
+
+.bannerRight{
+    background-color: #D0D3D4;
+}
+
+.bannerCard{
+    background-color: #D0D3D4;
+}
+
+.bannerLeft h1{
+    color:grey;
+    margin-left: 25px;
+    margin-top: 30px;
+}
+
+.bannerLeft h5{
+    margin-left: 25px;
+    margin-top: 20px;
+    color:grey;
+}
+
+.bannerLeft p{
+    margin-left: 25px;
+    margin-top: 20px;
+    color: grey;
+}
+
+.button{
+    margin-left: 25px !important;
+    border-radius: 10px !important;
+    background-color: #3498DB !important;
+    margin-top: 30px;
+}
+
+/*-----menu1----*/
+
+.menuLeft1{
+    background-color: #D0D3D4;
+}
+
+.menuCard1{
+    background-color: #D0D3D4;
+}
+
+.menuCard1 h5{
+    background-color: #D0D3D4;
+    color: grey;
+    margin-left: 25px;
+    margin-top: 30px;
+}
+
+.menuCard1 p{
+    color: grey;
+    margin-left: 25px;
+    margin-top: 20px;
+}
+
+.menuRight1{
+    background-color:#D0D3D4;
+}
+
+.menuRight1 img{
+    width: 500px;
+    height: 300px;
+    border-radius: 10px;
+    margin-top: 30px;
+    margin-left: 25px;
+}
+
+.service{
+    background-image: url(images/photo-1517336714731-489689fd1ca8.jpg);
+    background-attachment: fixed;
+    height: 300px;
+}
+
+.service1{
+    border-radius: 10px;
+    background-color:white;
+    margin-left: 50px;
+    margin-right: 30px;
+}
+
+.service1 i{
+    color: #2874A6;
+   background-color:white;
+   margin-left: 80px;
+   margin-top: 30px;
+}
+
+.service1 p{
+    text-align: center;
+    color: black;
+    margin-top: 5px;
+}
+
+.service1 h5{
+    color: black;
+    text-align: center;
+}
+
+.service2 {
+    border-radius: 10px;
+    background-color:white;
+    margin-left: 50px;
+    margin-right: 30px;
+}
+
+.service3{
+    border-radius: 10px;
+    background-color:white;
+    margin-left: 50px;
+    margin-right: 30px;
+}
+
+.service4{
+    border-radius: 10px;
+    background-color:white;
+    margin-left: 50px;
+    margin-right: 30px;
+}
+
+.service2 i{
+    color: #2874A6;
+    background-color:white;
+    margin-left: 80px;
+    margin-top: 30px; 
+}
+
+.service3 i{
+    color: #2874A6;
+    background-color:white;
+    margin-left: 80px;
+    margin-top: 30px; 
+}
+
+.service4 i{
+    color: #2874A6;
+    background-color:white;
+    margin-left: 80px;
+    margin-top: 30px; 
+}
+
+.service2 p{
+    text-align: center;
+    color: black;
+    margin-top: 5px;
+}
+
+.service3 p{
+    text-align: center;
+    color: black;
+    margin-top: 5px;
+}
+
+.service4 p{
+    text-align: center;
+    color: black;
+    margin-top: 5px;
+}
+
+.service2 h5{
+    color: black;
+    text-align: center;
+}
+
+.service3 h5{
+    color: black;
+    text-align: center;
+}
+
+.service4 h5{
+    color: black;
+    text-align: center;
+}
+
+/*------contact---*/
+
+.cont{
+    background-color: #D0D3D4;
+}
+
+.buttonForm{
+    margin-left: 15px !important;
+    border-radius: 10px !important;
+    background-color: #3498DB !important;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+/*----calculator--*/
+
+.whole{
+    height: 300px;
+    width: 400px;
+    background-color: #D0D3D4;
+}
+
+.whole h2{
+    margin-top: 70px;
+}
+
+.buttoncal{
+    margin-left: 25px !important;
+    border-radius: 10px !important;
+    background-color: #3498DB !important;
+    margin-top: 30px;
+    padding: 5px 15px;
+    border: 1px solid #3498DB;
+    color: white;
+}
+
+/*------fonts---*/
+
+#fonts{
+    height:50px;
+    color:black;
+}
+
+.awesome{
+    border-bottom: 2px solid grey;
+}
+
+.para{
+    color: black;
+    padding-top: 10px;
+    border-bottom: 2px solid grey;
+}
+
+.font{
+    margin: 20px 10px;
+    color:	#4267B2;
+}
+
+.face{
+    margin-left: 250px;
+}
+
+/*----boottomfooter---*/
+
+.footer p{
+    text-align: center;
+    color: black;
+    margin-top: 20px;
+}
+
+
+
